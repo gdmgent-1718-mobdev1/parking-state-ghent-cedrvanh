@@ -9,10 +9,11 @@ html, body {
     background: #2c3e50;
     color: #141414;
     font-family: 'Roboto', sans-serif;
+    box-sizing: padding-box;
 }
 
 .container {
-    margin: 10%;
+    margin: 150px;
 }
 
 .title {
