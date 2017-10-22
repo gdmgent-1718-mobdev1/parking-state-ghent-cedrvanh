@@ -36,7 +36,7 @@
                         } 
                         else if(percentage >= 0.20 && percentage <= 50) {
                             color = 'orange';
-                            icon = 'fa fa-minus';
+                            icon = 'fa fa fa-arrows-h';
                         } 
                         else {
                             color = 'red';
